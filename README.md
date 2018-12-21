@@ -1,1 +1,2 @@
 # MorseMachine
+Morse code may be old fashioned, but it still fascinates people, old and young. This repository contains building instructions for a setup for Morse code practice and demonstration. The setup can be built easily and at very low cost using readily available components and 3D printed parts, including straight key and paddles. The Morse Machine can obviously be used for keying a transmitter, but the intended purpose has been to demonstrate or teach Morse code, and not least to promote amateur radio. Thanks to LA3ZA for the idea.
